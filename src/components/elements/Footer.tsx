@@ -22,8 +22,8 @@ export const Footer = () => {
               </h2>
               <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
-                  <a href="https://flowbite.com/" className="hover:underline">
-                    Flowbite
+                  <a href="https://www.facebook.com/bachhotoannang" className="hover:underline">
+                    FaceBook
                   </a>
                 </li>
                 <li>
@@ -42,7 +42,7 @@ export const Footer = () => {
               <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
                   <a
-                    href="https://github.com/themesberg/flowbite"
+                    href="https://github.com/Tazuk15"
                     className="hover:underline ">
                     Github
                   </a>

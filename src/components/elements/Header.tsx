@@ -12,7 +12,7 @@ export const Header = () => {
             <span className="sr-only">Your Company</span>
             <img
               className="h-8 w-auto"
-              src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+              src="https://theme.hstatic.net/1000288298/1001020793/14/logo.png?v=257"
               alt=""
             />
           </Link>
@@ -22,7 +22,7 @@ export const Header = () => {
             href="/profile"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Categories
+            Profile
           </a>
           <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
             Products
